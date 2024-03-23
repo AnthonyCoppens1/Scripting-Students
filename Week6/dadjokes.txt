@@ -1,0 +1,5 @@
+[{'joke': 'Why did the man put his money in the freezer? He wanted cold, hard cash.'}][{'joke': 'How do astronomers organize a party? They planet.'}][{'joke': 'Why was the traffic light late to work? It took too long to change.'}]
+[{'joke': 'How do birds learn to fly? They wing it.'}]
+[{'joke': 'What did the hamburger name its baby? Patty.'}]
+[{'joke': 'I built a model of Mount Everest and my son asked if it was to scale. "No," I said. "It\'s to look at."'}]
+[{'joke': 'What kind of shoes does a lazy person wear? Loafers.'}]
